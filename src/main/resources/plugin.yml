@@ -1,0 +1,3 @@
+name: Incomprehendable-t3
+main: com.tenjava.entries.Incomprehendable.t3.TenJava
+version: '${project.version}'
